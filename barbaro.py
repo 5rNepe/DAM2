@@ -1,0 +1,1 @@
+print("lA MAMA DE JUAN LA CH1PA RIKO RIKO")
